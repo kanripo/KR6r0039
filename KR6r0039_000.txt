@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 婆藪槃豆法師傳
+#+DATE: 2015-08-30 22:15:12.550116
+#+PROPERTY: JUAN 0
