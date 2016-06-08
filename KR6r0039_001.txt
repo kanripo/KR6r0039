@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:15:12.355056
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:11
 #+TITLE: 婆藪槃豆法師傳
 #+PROPERTY: CBETA_ID T50n2049
 #+PROPERTY: ID KR6r0039
